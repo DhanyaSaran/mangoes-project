@@ -1,1 +1,2 @@
-# mangoes-project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
